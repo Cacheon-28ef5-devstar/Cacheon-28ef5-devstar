@@ -57,6 +57,7 @@ Selected as a winner of the **Nabu Tester Program** for detailed product testing
 ### Contest Engagements
 | Project | Platform | Findings | Severity |
 |:--------|:---------|:---------|:---------|
+| RAIN-USDR Smart Contract Audit Contest (Sept 2026) | HackenProof | 9 | ![](https://img.shields.io/badge/H-5-red) ![](https://img.shields.io/badge/M-4-yellow) |
 | Metric | Sherlock | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Jupiter Lend | Code4rena | 1 | ![](https://img.shields.io/badge/M-1-yellow) |
 | Injective Peggy Bridge | Code4rena | 1 | ![](https://img.shields.io/badge/QA-2nd%20QA-blue) |
